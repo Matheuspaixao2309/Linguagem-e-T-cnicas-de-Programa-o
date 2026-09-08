@@ -22,7 +22,7 @@
 	
 	printf("\n d%", resto2);
 	
-	if(dgv1 == resto1 && dgv2 == resto2) printf("\n cpf valido");         
+	if(dgv1 == resto1 && dgv2 == resto2) printf("\n cpf valido"); else printf("\n cpf invalido");        
             
 
     return 0;
