@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
-
 #define PI 3.141592
 
 int main() {
